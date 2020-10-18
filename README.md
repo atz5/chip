@@ -1,6 +1,6 @@
 # Change IP Address in Every 30 seconds[Anonymous Mode]
 ------------------
-- Install requirements run as ./install.sh 
+- Install requirements run as ./installer.sh 
 
 # Description
 -------------
